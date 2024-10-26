@@ -1,0 +1,2 @@
+# nextjsproject
+Next JS + Shadcn
